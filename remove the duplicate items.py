@@ -1,4 +1,4 @@
-#write a program to remove the duplicate items from the list
+****#write a program to remove the duplicate items from the list
 size_of_list=int(input())
 list_1=list(map(int,input().split()))
 b=[]
